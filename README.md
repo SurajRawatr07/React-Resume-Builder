@@ -9,7 +9,7 @@ This project helps users create professional resumes easily with live preview an
 > Add your deployed link here
 
 
-https://your-deployment-link.com
+https://surajresumemaker.netlify.com
 
 
 ---
